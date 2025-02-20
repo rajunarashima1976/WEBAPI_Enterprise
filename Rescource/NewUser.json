@@ -1,0 +1,24 @@
+[
+  {
+    "UserName": "user1",
+    "Password": "kumar",
+    "Role": "manager",
+    "FullName": "RajeshKumar",
+    "Email": "user1@email.com"
+  },
+  {
+    "UserName": "user2",
+    "Password": "kumar",
+    "Role": "employee",
+    "FullName": "RameshKumar",
+    "Email": "user2@email.com"
+  },
+
+  {
+    "UserName": "user3",
+    "Password": "kumar",
+    "Role": "employee",
+    "FullName": "RakeshKumar",
+    "Email": "user3@email.com"
+  }
+]
